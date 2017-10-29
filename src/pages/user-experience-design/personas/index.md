@@ -8,7 +8,7 @@ Basically they are fictional characters representing the most important user or 
 
 They goal is to maintain a focus on key elements important for the target user groups. They  can be used to prioritise feature ideas, structure information or to set a style when designing or copywriting.
 
- Typical persona consists of some basic demografic information, the life story, psychological characteristic, needs in specific situation etc. They should be based on previous user research.
+Typical persona consists of some basic demografic information, the life story, psychological characteristic, needs in specific situation etc. They should be based on previous user research.
  
 ![Example of A Persona](https://i.pinimg.com/564x/30/1d/3c/301d3cf31fe5cbe29ac941b22dde6f70--website-design-persona-profile.jpg)
 
